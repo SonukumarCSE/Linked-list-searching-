@@ -1,10 +1,7 @@
 # Linked-list-searching-
 search in a linked list.
   
-  
-  
-  
-  # include <iostream>
+    # include <iostream>
     using namespace std;
     struct Node 
     {
